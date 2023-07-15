@@ -6,6 +6,8 @@ You can download the sample data at http://www.py4e.com/code3/romeo.txt
 """
 
 fname = input("Enter file name: ")
+if len(fname) < 1: fname = 'romeo.txt'
+
 fh = open(fname)
 lstOfWords = list()
 for line in fh:
