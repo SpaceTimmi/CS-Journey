@@ -1,11 +1,14 @@
 # Python for Everybody
 Link to [PY4E](https://www.py4e.com)
 
-"Python for Everybody" is an exceptional introductory course that I wholeheartedly recommend. As someone with prior coding experience, I found it to be relatively easy, but I believe it holds immense value for beginners. The course encompasses the fundamentals of Python programming and explores its essential data structures. Additionally, it delves into the realm of regular expressions, enabling learners to efficiently work with textual data. Moreover, it equips students with the ability to connect to the web and retrieve data using Python, as well as interact with databases for efficient data manipulation.
+PY4E is a very good introductory course that I wholeheartedly recommend. As someone with prior coding experience, I found it to be relatively easy, but I can see how some of the later concepts might be challenging for newer learners. Despite this, the course is still worth taking, especially for beginners.
 
-While the course covers a wide range of topics, it does so in a concise manner, not delving too deeply into each aspect. Nevertheless, this brevity acts as a strength, as it serves as an excellent stepping stone for individuals interested in embarking on a journey into Computer Science. The acquired skills from this course furnish students with a strong foundation in programming principles.
+The course does an excellent job of covering the basics of Python and its data structures, which is crucial for building a strong foundation in programming. It also introduces learners to the world of regular expressions, web data retrieval, and interacting with databases using Python. While these topics may present some difficulty, they are essential skills for any aspiring programmer.
 
-Enrolling in "Python for Everybody" is undoubtedly a prudent choice for aspiring programmers and technology enthusiasts. It equips them with the essential knowledge required to further explore more specialized and advanced courses with a profound understanding of the fundamental workings of programming. Beginners, in particular, will find this course immensely enjoyable and rewarding, as it paves the way for continuous growth and exploration in the vast world of computer programming.
+Although the coverage of some concepts might be brief, PY4E provides an invaluable starting point for someone interested in learning Computer Science. The knowledge gained from this course acts as a springboard, enabling students to dive into other courses with a better understanding of how programming works at a fundamental level.
+
+In conclusion, PY4E is a worthwhile course that prepares beginners for their programming journey. It equips them with essential Python skills and knowledge, even if some later concepts may pose challenges. With determination and supplemental resources, learners can overcome these difficulties and emerge with a strong foundation in Python programming, ready to explore more advanced topics and projects.
 
 ## Final Project
-### Loading...
+### Basketball Season Simulator 
+This project will require some understanding of Object Oriented Programming which is not covered in this course. (...) 
