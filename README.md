@@ -29,4 +29,4 @@ Course | Status | Difficulty | Prerequisites | Review & Exercises
 
 Course | Status | Difficulty | Prerequisites | Review & Exercises 
 :-- | :--: | :--: | :--: | :--:
-[Introduction to Computer Science and Programming using Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) ([alt](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)) | Ongoing | N/A | [high school algebra](https://www.khanacademy.org/math/algebra-home) | [Review & Exercises](...)
+[Introduction to Computer Science and Programming using Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) ([alt](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)) | Ongoing | N/A | [high school algebra](https://www.khanacademy.org/math/algebra-home) | [Review & Exercises](https://github.com/SpaceTimmi/Finishing-OSSU/tree/main/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python)
