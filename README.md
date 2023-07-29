@@ -29,4 +29,27 @@ Course | Status | Difficulty | Prerequisites | Review & Exercises
 
 Course | Status | Difficulty | Prerequisites | Review & Exercises 
 :-- | :--: | :--: | :--: | :--:
-[Introduction to Computer Science and Programming using Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) ([alt](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)) | Ongoing | N/A | [high school algebra](https://www.khanacademy.org/math/algebra-home) | [Review & Exercises](https://github.com/SpaceTimmi/Finishing-OSSU/tree/main/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python)
+[Introduction to Computer Science and Programming using Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) ([alt](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)) | Completed | 3/5 | [high school algebra](https://www.khanacademy.org/math/algebra-home) | [Review & Exercises](https://github.com/SpaceTimmi/Finishing-OSSU/tree/main/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python)
+
+
+### Core Programming 
+
+**Topics covered**:
+`functional programming`
+`design for testing`
+`program requirements`
+`common design patterns`
+`unit testing`
+`object-oriented design`
+`static typing`
+`dynamic typing`
+`ML-family languages (via Standard ML)`
+`Lisp-family languages (via Racket)`
+`Ruby`
+`and more`
+
+
+Course | Status | Difficulty | Prerequisites | Review & Exercises 
+:-- | :--: | :--: | :--: | :--:
+[How to Code - Simple Data](https://www.edx.org/course/how-to-code-simple-data) | On-going | N/A | None | [Review & Exercises](...)
+
