@@ -7,8 +7,7 @@ The course does an excellent job of covering the basics of Python and its data s
 
 Although the coverage of some concepts might be brief, PY4E provides an invaluable starting point for someone interested in learning Computer Science. The knowledge gained from this course acts as a springboard, enabling students to dive into other courses with a better understanding of how programming works at a fundamental level.
 
-In conclusion, PY4E is a worthwhile course that prepares beginners for their programming journey. It equips them with essential Python skills and knowledge, even if some later concepts may pose challenges. With determination and supplemental resources, learners can overcome these difficulties and emerge with a strong foundation in Python programming, ready to explore more advanced topics and projects.
+In conclusion, PY4E is a worthwhile course that prepares beginners for their programming journey. It equips them with essential Python skills and knowledge. With determination and supplemental resources, learners can overcome these difficulties and emerge with a strong foundation in Python programming, ready to explore more advanced topics and projects.
 
 ## Final Project
-### Basketball Season Simulator 
-This project will require some understanding of Object Oriented Programming which is not covered in this course. (...) 
+### Loading...

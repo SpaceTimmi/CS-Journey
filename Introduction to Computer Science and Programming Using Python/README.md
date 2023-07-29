@@ -4,4 +4,6 @@ Link to [course](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-sci
 
 
 ## Final Project
-### Loading...
+### Basketball Season Simulator 
+[Link to project](https://github.com/SpaceTimmi/Basketball-Simulator)
+
