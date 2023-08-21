@@ -51,5 +51,5 @@ Course | Status | Difficulty | Prerequisites | Review & Exercises
 
 Course | Status | Difficulty | Prerequisites | Review & Exercises 
 :-- | :--: | :--: | :--: | :--:
-[How to Code - Simple Data](https://www.edx.org/course/how-to-code-simple-data) | On-going | N/A | None | [Review & Exercises](...)
+[How to Code - Simple Data](https://www.edx.org/course/how-to-code-simple-data) | Completed | 2/5 | None | [Review & Exercises](...)
 
