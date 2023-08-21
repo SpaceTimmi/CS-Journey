@@ -52,5 +52,5 @@ Course | Status | Difficulty | Prerequisites | Review & Exercises
 Course | Status | Difficulty | Prerequisites | Review & Exercises 
 :-- | :--: | :--: | :--: | :--:
 [How to Code - Simple Data](https://www.edx.org/course/how-to-code-simple-data) | Completed | 2/5 | None | [Review & Exercises](https://github.com/SpaceTimmi/Finishing-OSSU/tree/main/HTC%20Simple%20Data)
-[How to Code - Complex Data](https://www.edx.org/learn/coding/university-of-british-columbia-how-to-code-complex-data) | On-going | N/A | None | [Review & Exercises](...)
+[How to Code - Complex Data](https://www.edx.org/learn/coding/university-of-british-columbia-how-to-code-complex-data) | On-going | N/A | How to Code: Simple Data | [Review & Exercises](...)
 
