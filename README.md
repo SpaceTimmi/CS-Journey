@@ -1,4 +1,4 @@
-# Documenting my  Computer SCience learning Journey 
+# Documenting my  Computer Science learning Journey 
 
 This will be a detailed report on how I'm going about my Computer Science learning journey. I have not been able to study for the past 6 months due the academic workload of my undergraduate studies. I want to restart the journey again, and I aim to leverage this opportunity to write about my experience and share the knowledge I acquire along the way. 
 
