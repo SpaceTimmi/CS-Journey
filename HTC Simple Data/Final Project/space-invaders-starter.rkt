@@ -124,7 +124,7 @@
 ;; produce the next position of the missiles, tank and invaders.
 ;;         and also generate a random position for a new invader.
 
-;; REMOVED ALL THE TESTS FOR Update-Game & Update-Missile because that would involve testing for randomness, which I can't do now.
+;; REMOVED ALL THE TESTS FOR Update-Game & Update-Invader because that would involve testing for randomness, which I can't do now.
 #;
 (check-expect (update-game G1) (make-game empty
                                           empty
